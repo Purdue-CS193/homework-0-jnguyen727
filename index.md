@@ -1,4 +1,4 @@
-#Johnny's First CS193 Homework
+# Johnny's First CS193 Homework
 
 - I like it is one credit.
 - I like that it teaches us how to use the terminal
